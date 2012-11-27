@@ -5,7 +5,7 @@
 #####This is Markdown Test<br>
 
 ***
-This is a regular paragraph.
+<font color=red>This is a regular paragraph.</font>
 <table>
     <tr>
         <td>Name</td>
