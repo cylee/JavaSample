@@ -7,7 +7,16 @@
 This is a regular paragraph.
 <table>
     <tr>
-        <td>Foo</td>
+        <td>Name</td>
+          <td>Size</td>
+            <td>Width</td>
+              <td>Height</td>
+    </tr>
+        <tr>
+        <td>EPD20</td>
+          <td>2.0"</td>
+            <td>200</td>
+              <td>96</td>
     </tr>
 </table>
 
