@@ -3,3 +3,4 @@
 <h3>This is Markdown Test</h3><p>
 <h2>This is Markdown Test</h2><p>
 <h1>This is Markdown Test</h1><p>
+<font color=red> Show red color </font>
